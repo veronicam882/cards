@@ -9,14 +9,12 @@ html {
   box-sizing: inherit;
 }
 
-
 .cards {
   margin: 0;
   padding: 0;
   list-style-type: none;
   text-align: center;
 }
-
 
 .cards li {
   display: inline-block;
@@ -28,7 +26,6 @@ html {
   border-radius: 10px;
   text-align: left;
 }
-
 
 .cards img {
   display: block;
